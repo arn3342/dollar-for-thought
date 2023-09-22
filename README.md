@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/yourusername/your-project.git
+   git clone [https://github.com/arn3342/dollar-for-thought.git]
    ```
 
 2. **Install Dependencies**:
